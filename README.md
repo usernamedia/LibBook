@@ -1,4 +1,4 @@
-# 📚 BLM25 - Library Book Manager
+#  BLM25 - Library Book Manager
 
 **Project Presentation Link**: [Here]
 
