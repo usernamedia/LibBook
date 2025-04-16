@@ -124,6 +124,9 @@ The following requirements were implemented to achieve the objectives:
 **Expected Output:**  
 ✅ Book added successfully.
 
+![image](https://github.com/user-attachments/assets/e9040952-069a-44da-ba3a-3f0b313f314f)
+
+
 ---
 
 ###  Delete Book
@@ -132,11 +135,16 @@ The following requirements were implemented to achieve the objectives:
 **Expected Output:**  
 ✅ Book deleted successfully.
 
+![image](https://github.com/user-attachments/assets/2f4e9065-ba69-4600-9e6f-774921037b1f)
+
+
 ---
 
 ### View All Books
 **Action:** Chose option `2` to view all books.  
 **Expected Output:**
+
+![image](https://github.com/user-attachments/assets/597c884e-8020-4383-9cec-fba697ec5099)
 
 ---
 
@@ -146,6 +154,8 @@ The following requirements were implemented to achieve the objectives:
 **Expected Output:**  
 ✅ Book updated successfully.
 
+![image](https://github.com/user-attachments/assets/f0b7e9d8-8ec7-438d-acbd-14e5b1b1ddb2)
+
 ---
 
 ###  Exit Application
@@ -153,15 +163,19 @@ The following requirements were implemented to achieve the objectives:
 **Expected Output:**  
 Program exited with `Process finished with exit code 130`.
 
+![image](https://github.com/user-attachments/assets/d375b373-643d-4ba5-ae55-97d9514f24c4)
+
+
 ---
 
 ## Code
 
 The full implementation is in Java, with each class organized into the `blm25` package. The code adheres to object-oriented principles, is modular, and follows clean code practices to ensure readability and maintainability. The application correctly implements all required features and handles user interactions efficiently.
 
+
 ---
 
-![image](https://github.com/user-attachments/assets/9ac30b38-00b6-4221-9f5d-80dd206d3ad0)
+
 
 
 
