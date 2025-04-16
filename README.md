@@ -161,7 +161,8 @@ The full implementation is in Java, with each class organized into the `blm25` p
 
 ---
 
-![image](https://github.com/user-attachments/assets/c3e92ae3-5089-496b-8c81-36224e78c6b1)
+![image](https://github.com/user-attachments/assets/9ac30b38-00b6-4221-9f5d-80dd206d3ad0)
+
 
 
 ##  Files Used
