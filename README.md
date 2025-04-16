@@ -161,6 +161,9 @@ The full implementation is in Java, with each class organized into the `blm25` p
 
 ---
 
+![image](https://github.com/user-attachments/assets/c3e92ae3-5089-496b-8c81-36224e78c6b1)
+
+
 ##  Files Used
 
 - **`books.csv`**: This file is used to store the library’s books data in CSV format. Each book's details (ID, title, author, and year) are saved in this file for persistence.
