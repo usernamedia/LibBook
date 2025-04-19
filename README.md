@@ -1,6 +1,6 @@
 #  BLM25 - Library Book Manager
 
-**Project Presentation Link**: [Here]
+**Project Presentation Link**:https://www.canva.com/design/DAGjdpZy16A/xn52IGqLdpOI_BFju0V3eA/view?utm_content=DAGjdpZy16A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h658f8ecd0d
 
 ### Created by: Sogdiana Arasheva
 **University:** Ala-Too International University  
