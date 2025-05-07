@@ -43,6 +43,6 @@ public class Book {
 
     @Override
     public String toString() {
-        return "📖 ID: " + id + ", Title: " + title + ", Author: " + author + ", Year: " + year;
+        return "ID: " + id + ", Title: " + title + ", Author: " + author + ", Year: " + year;
     }
 }

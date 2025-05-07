@@ -14,14 +14,13 @@ public class FileHandler {
                 writer.newLine();
             }
         } catch (IOException e) {
-            System.out.println("⚠️ Error saving books: " + e.getMessage());
+            System.out.println("Error saving books: " + e.getMessage());
         }
     }
 
     public static List<Book> loadBooks() {
         List<Book> books = new ArrayList<>();
         File file = new File(FILE_PATH);
-
         if (!file.exists()) return books;
 
         try (BufferedReader reader = new BufferedReader(new FileReader(FILE_PATH))) {
@@ -37,7 +36,7 @@ public class FileHandler {
                 }
             }
         } catch (IOException | NumberFormatException e) {
-            System.out.println("⚠️ Error loading books: " + e.getMessage());
+            System.out.println("Error loading books: " + e.getMessage());
         }
 
         return books;
