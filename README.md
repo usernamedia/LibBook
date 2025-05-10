@@ -20,74 +20,22 @@ The Library Book Manager is a Java-based console application designed to manage 
 
 ![image](https://github.com/user-attachments/assets/a45e7366-28c9-4f31-83b4-0596d53e8721)
 
-
----
-
-### Search and Filter
-- Search books by title or author
-- Filter books published after a given year
-
-(сюда фотку от таких функций)
-
 ---
 
 ### Data Persistence
 - Automatically saves all book records in `books.csv`
 - Automatically loads books on program startup
 
-(сюда фотку от сисиви)
-
----
-
-### Reporting and Analysis
-- Count total number of books
-- View a book by its ID
-- Sort books by title
-
-(сюда фотку от этих функций)
-
----
-
-=======
---- 
-## Presentation
-https://www.canva.com/design/DAGjdpZy16A/xn52IGqLdpOI_BFju0V3eA/view?utm_content=DAGjdpZy16A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h658f8ecd0d
----
-**Student Name:** Sogdiana Arasheva
----
-## Description
-
-The Library Book Manager is a Java-based console application designed to manage a library's book collection. It supports operations such as adding, viewing, updating, deleting, searching, and sorting books. All data is stored in a CSV file, ensuring persistence between program sessions. The project demonstrates key programming concepts such as object-oriented design, modular structure, exception handling, file I/O, and Java collections.
----
-## Objectives
-### Book Management
-- Add, view, update, and delete books
-- Each book contains: ID, title, author, year
-![image](https://github.com/user-attachments/assets/c86b8065-b484-40ca-9f17-27436ba815a2)
----
-### Search and Filter
-- Search books by title or author
-- Filter books published after a given year
-![image](https://github.com/user-attachments/assets/c99ebdcf-262c-4b18-b4e4-c79b6d4c300d)
-![image](https://github.com/user-attachments/assets/f55ac8f0-1304-4be6-8ec3-b034763069e5)
-![image](https://github.com/user-attachments/assets/7560384b-1904-48a9-be6b-b004faf8edf2)
----
-### Data Persistence
-- Automatically saves all book records in `books.csv`
-- Automatically loads books on program startup
-![image](https://github.com/user-attachments/assets/ae41c780-033a-4a46-9bea-62dcdd78184d)
+![image](https://github.com/user-attachments/assets/7b0261e6-620c-477e-96e7-4611292f2927)
 ---
 ### Reporting and Analysis
 - Count total number of books
-  ![image](https://github.com/user-attachments/assets/c204f788-9194-42b9-97f3-e44d3da679c4)
+![image](https://github.com/user-attachments/assets/785f10d9-e8a2-460b-a555-64dd2329325f)
 ---
->>>>>>> 2c68d8884b6930097c26e73aed2b6749a37f2e59
 ### Error Handling
 - Rejects invalid inputs and non-existent IDs
 - Uses `try-catch` to prevent application crashes
 - Ensures user-friendly error messages
-<<<<<<< HEAD
-
 (сюда фотку от этой фнкции )
 
 ---
@@ -174,12 +122,7 @@ Each case corresponds to a specific operation (e.g., add book, delete book, view
 
 ---
 
-## String Processing for CSV
 
-**Serialization (Object → CSV String):**
-
-```java
-pw.println(book.getId() + "," + book.getTitle() + "," + book.getAuthor() + "," + book.getYear());
 
 ## Deserialization (CSV String → Object)
 
@@ -268,4 +211,4 @@ Each case corresponds to a specific operation (e.g., add book, delete book, view
 **Exporting Books to CSV:**
 ![image](https://github.com/user-attachments/assets/5b1f819d-e5cb-466c-a0c5-aa335c2553fa)
 All book details are written line by line in CSV format using `BufferedWriter`, which ensures efficient writing and automatic resource management through the try-with-resources block.
->>>>>>> 2c68d8884b6930097c26e73aed2b6749a37f2e59
+
