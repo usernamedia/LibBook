@@ -36,13 +36,12 @@ The Library Book Manager is a Java-based console application designed to manage 
 - Rejects invalid inputs and non-existent IDs
 - Uses `try-catch` to prevent application crashes
 - Ensures user-friendly error messages
-(сюда фотку от этой фнкции )
+![image](https://github.com/user-attachments/assets/2c76570b-dbd6-4351-abd3-672d7a379268)
 
 ---
 
 ## Project Requirement List
 
-=======
 ![image](https://github.com/user-attachments/assets/0d71095f-d22e-4ec3-84bd-45f604e100e7)
 ![image](https://github.com/user-attachments/assets/c4f1e50d-6b36-4688-9378-904b741b91d5)
 ---
