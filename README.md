@@ -2,14 +2,13 @@
 
 ## Presentation
 https://www.canva.com/design/DAGjdpZy16A/xn52IGqLdpOI_BFju0V3eA/view?utm_content=DAGjdpZy16A&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h658f8ecd0d
-
+---
 **Student Name:** Sogdiana Arasheva
-
 ---
 
 ## Description
 
-The Library Book Manager is a Java-based console application designed to manage a library's book collection. It supports operations such as adding, viewing, updating, deleting, searching, and sorting books. All data is stored in a CSV file, ensuring persistence between program sessions. The project demonstrates key programming concepts such as object-oriented design, modular structure, exception handling, file I/O, and Java collections.
+The Library Book Manager is a Java-based console application designed to manage a library's book collection. It supports operations such as adding, viewing, updating, deleting, searching, and sorting books. All data is stored in a CSV file, ensuring persistence between program sessions. The project demonstrates key programming concepts such as object-oriented design, modular structure, exception handling and Java collections.
 
 ---
 
@@ -19,7 +18,8 @@ The Library Book Manager is a Java-based console application designed to manage 
 - Add, view, update, and delete books
 - Each book contains: ID, title, author, year
 
-(сюда фотку от главного меню)
+![image](https://github.com/user-attachments/assets/a45e7366-28c9-4f31-83b4-0596d53e8721)
+
 
 ---
 
