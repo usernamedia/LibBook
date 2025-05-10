@@ -119,18 +119,10 @@ Used in menu navigation:
 
 Each case corresponds to a specific operation (e.g., add book, delete book, view books)
 
-## File Import/Export
-**Importing Books from CSV:**
-(фоточку)
-
-**Exporting Books to CSV:**
-(фоточку)
-
-All book details are written line by line in CSV format using `BufferedWriter`, which ensures efficient writing and automatic resource management through the try-with-resources block.
+---
 
 **Importing Books from CSV:**
 ![image](https://github.com/user-attachments/assets/9cdcae10-e375-4ea8-8d06-342252956af5)
 **Exporting Books to CSV:**
 ![image](https://github.com/user-attachments/assets/5b1f819d-e5cb-466c-a0c5-aa335c2553fa)
 All book details are written line by line in CSV format using `BufferedWriter`, which ensures efficient writing and automatic resource management through the try-with-resources block.
-
